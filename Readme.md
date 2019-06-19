@@ -3,4 +3,4 @@
 ## 703.1
 ### 
 
-![image](images/Vagrant.PNG)
+![image](Vagrant.PNG)
