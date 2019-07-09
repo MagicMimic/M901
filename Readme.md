@@ -24,7 +24,7 @@ Wenn man dann mit Vagrant eine Vm erstellt hat, kann man mit einem Virtualizer (
 
 Das obrige Bild beschreibt die Struktur von Vagrant. Ganz oben sieht man das Betriebssystem. Auf diesem Betriebsystem wird dann mittel einem Vagrantfile eine Virtuelle Machine erstellt, die an einem Provider (VirtualBox und co.) weitergegeben wird.
 
-[20:02, 8.7.2019] Michelle: ## Kapitel: 702.2 Container Usage, 1. Teil 
+## Kapitel: 702.2 Container Usage, 1. Teil 
 
 *Weight* 5
 
