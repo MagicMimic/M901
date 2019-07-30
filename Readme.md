@@ -59,7 +59,7 @@ Der Zweck eines ReplicaSets ist es, einen stabilen Satz von Replikat-Pods zu erh
 Pods sind die kleinsten einsetzbaren Recheneinheiten, die in Kubernetes erstellt und verwaltet werden können.
 Eine Schote (wie in einer Schote von Walen oder Erbsenschote) ist eine Gruppe von einem oder mehreren Containern.
  (z.B. Docker-Container), mit gemeinsamem Speicher/Netzwerk und einer Spezifikation für den Betrieb der Container. Die Inhalte einer Pod werden immer gemeinsam platziert und geplant und laufen in einem gemeinsamen Kontext. Ein Pod modelliert einen anwendungsspezifischen "logischen Host" - er enthält einen oder mehrere Anwendungscontainer, die relativ eng gekoppelt sind - in einer Pre-Container-Welt, wobei die Ausführung auf derselben physischen oder virtuellen Maschine die Ausführung auf demselben logischen Host bedeuten würde.
-[20:02, 8.7.2019] Michelle: ## Kapitel: 702.1 Container Usage, 1. Teil 
+## Kapitel: 702.1 Container Usage, 1. Teil 
 
 *Weight* 7
 
